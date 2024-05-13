@@ -1,4 +1,4 @@
-import { createLazyFileRoute, Navigate } from "@tanstack/react-router";
+import { createLazyFileRoute } from "@tanstack/react-router";
 import { useUserStore } from "../zustand/user";
 import { Home } from "../pages/Home";
 
